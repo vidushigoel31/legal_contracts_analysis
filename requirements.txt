@@ -1,0 +1,18 @@
+# Core
+python-dotenv
+pandas
+psycopg2-binary
+unidecode
+
+# Azure OpenAI and LangChain
+openai>=1.0.0
+langchain
+langchain-openai
+
+# Sentence Transformers
+sentence-transformers
+
+# Utility (optional but useful)
+typing-extensions
+# For PostgreSQL vector database
+pgvector
